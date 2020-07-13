@@ -1,0 +1,3 @@
+# recommend_similar_books
+
+ある本に似た本を探すためのデータ収集と整形、およびstreamlitへの実装
